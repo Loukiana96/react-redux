@@ -1,0 +1,17 @@
+[
+  {
+    "type": "ADD"
+  },
+  {
+    "type": "REMOVE"
+  },
+  {
+    "type": "ADDTen"
+  },
+  {
+    "type": "REMOVETen"
+  },
+  {
+    "type": "RESET"
+  }
+]
